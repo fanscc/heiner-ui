@@ -125,7 +125,7 @@ const HTML_CONTENT = (query: Query) => {
 
   const path = query.keyword;
   const style = fs.readFileSync(Path.join(Resource.RESOURCE_PATH, 'style.css'), 'utf-8');
-  const iframeSrc = `https://btr-ui.qipeipu.net/heiner/#/button/${path}`
+  const iframeSrc = `https://btr-ui.qipeipu.net/heiner/#/${path}`
   return `
     <style type="text/css">${style}</style>
     <body class="heiner-helper-docs-container">
