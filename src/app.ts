@@ -129,14 +129,6 @@ const HTML_CONTENT = (query: Query) => {
   return `
     <style type="text/css">${style}</style>
     <body class="heiner-helper-docs-container">
-    <div class="heiner-helper-move-mask"></div>
-    <div class="heiner-helper-loading-mask">
-      <div class="heiner-helper-loading-spinner">
-        <svg viewBox="25 25 50 50" class="circular">
-          <circle cx="50" cy="50" r="20" fill="none" class="path"></circle>
-        </svg>
-      </div>
-    </div>
     <iframe id="docs-frame" src="${iframeSrc}"></iframe>
     <script>
       window.addEventListener('message', (e) => {
