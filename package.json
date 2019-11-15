@@ -6,7 +6,7 @@
   "publisher": "ElemeFE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ElemeFE/vscode-heiner-helper"
+    "url": "https://github.com/fanscc/heiner-ui"
   },
   "engines": {
     "vscode": "^1.12.0"
