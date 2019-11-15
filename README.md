@@ -1,6 +1,6 @@
 # VSCode-Heiner-Helper
 
-> VSCode-Heiner-Helper is a VS Code extension for Heiner-UI. If you use ATOM editor, please go to [ATOM version](https://github.com/ElemeFE/Heiner-helper)
+> VSCode-Heiner-Helper is a VS Code extension for Heiner-UI. If you use ATOM editor, please go to [ATOM version](https://github.com/fanscc/heiner-ui)
 
 Heiner-UI is a great library. More and more projects use it. So, For helping developer write more efficient by Heiner-UI, VSCode-Heiner-Helper is born.
 
@@ -28,8 +28,6 @@ Heiner-UI is a great library. More and more projects use it. So, For helping dev
     or you should select tag you want to search
 
 4 - Enter and trigger document browser
-
-![document](https://user-images.githubusercontent.com/1659577/27990775-4b7db888-6494-11e7-9b27-3ec7fa5f99b7.gif)
 
 ### Version, Quotes, Indentation size and Language Switching
 

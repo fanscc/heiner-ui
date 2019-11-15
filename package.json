@@ -2,8 +2,8 @@
   "name": "vscode-heiner-helper",
   "displayName": "vscode-heiner-helper",
   "description": "A vscode extension for heiner-UI",
-  "version": "0.5.6",
-  "publisher": "ElemeFE",
+  "version": "1.0.2",
+  "publisher": "heiner-ui",
   "repository": {
     "type": "git",
     "url": "https://github.com/fanscc/heiner-ui"
