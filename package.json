@@ -2,7 +2,7 @@
   "name": "vscode-heiner-helper",
   "displayName": "vscode-heiner-helper",
   "description": "A vscode extension for heiner-UI",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "heiner-ui",
   "repository": {
     "type": "git",
