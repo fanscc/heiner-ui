@@ -51,18 +51,11 @@ Document is off-line and auto synchronize with Heiner-UI official site.
 Default hot key is  `ctrl + cmd + z`( windows: `ctrl + win + z`). If it has conflicted with other software's hot key. You can customize it. see [keybindings](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-editor)
 
 
-## Autocomplete
-
-![autocomplete](https://user-images.githubusercontent.com/1659577/27990774-4b7b3662-6494-11e7-83a4-9e6ed3ef698a.gif)
-
 * Distinguish and auto complete property and method for every Heiner-UI tag
 
 * Prompt value when value is some special type like Boolean or ICON.
 
 
-## Snippets
-
-![snippets](https://user-images.githubusercontent.com/1659577/27990776-4b9386f4-6494-11e7-9c08-596a13afd706.gif)
 
 Support snippets list:
 
